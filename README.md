@@ -19,7 +19,6 @@
 * Embedded Systems
 * Internet of Things (IoT)
 * Python Development
-* Data Structures & Algorithms
 
 🎯 Seeking entry-level opportunities to apply my technical knowledge and contribute to innovative projects.
 
@@ -43,7 +42,7 @@
 ### 🔧 Tools & Platforms
 
 🔹 GitHub
-🔹 VS Code
+🔹 MATLAB
 🔹 MS Excel
 
 ---
@@ -72,21 +71,28 @@
 
 ## 🏆 Certifications
 
-🥇 TCS iON Career Edge – Young Professional
+## 🏆 Certifications & Training
 
-🥈 Wadhwani Employability Skills Certification
+🥇 AWS Skill Builder – Amazon Web Services (AWS)
 
-🥉 Technical English for Engineers
+🥈 Cybersecurity Essentials – Cisco Networking Academy
 
-🏅 Introduction to IoT
+🥉 Cyber Job Simulation – Deloitte
 
-🏅 Introduction to Industry 4.0 and Industrial IoT
+🏅 Soft Skills Development – TCS iON
+
+🏅 Upskill Program – Cambridge
+
+🏅 Learn Leap with Aptitude – Titan
+
+🏅 Embedded Systems Training – Speculation Infotech
+
+🏅 AWS Cloud Fundamentals
+
 
 ---
 
 ## 📚 Currently Learning
-
-🌟 Data Structures & Algorithms
 
 🌟 Advanced Python Programming
 
@@ -96,17 +102,6 @@
 
 🌟 Software Development Fundamentals
 
----
-
-## 📈 GitHub Goals - 2026
-
-✅ Build More Projects
-
-✅ Strengthen DSA Skills
-
-✅ Contribute to Open Source
-
-✅ Land My First Engineering Role
 
 ---
 
